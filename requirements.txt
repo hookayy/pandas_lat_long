@@ -1,0 +1,4 @@
+geopy
+pandas
+openpyxl
+tqdm
